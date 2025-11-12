@@ -1,1 +1,1 @@
-# python-git-igreniyorum
+This project is for learning Git!
